@@ -1,6 +1,6 @@
 ### Hi there! 🖖
 
-#### I'm Emiliano Sasal - Full Stack Developer
+#### I'm Emiliano Sasal - Full Stack Developer from Buenos Aires, Argentina.
 
 
 <div id="badges">
@@ -10,7 +10,8 @@
 </div>
 
 ---
+#### 👾 My GitHub Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emisasal&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emisasal&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emisasal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=emisasal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
