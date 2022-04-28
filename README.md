@@ -9,7 +9,7 @@
 </div>
 
 ---
-### 💻 Languages & Tools
+### 💻  Languages & Tools
 
 #### Front-End
 <div>
