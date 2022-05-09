@@ -1,6 +1,7 @@
 ### Hi there! 🖖
 
 #### I'm Emiliano Sasal - Full Stack Developer from Buenos Aires, Argentina.
+##### Live long and prosper.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/emiliano-sasal/" target="_blank" rel="noopener noreferrer">
