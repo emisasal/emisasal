@@ -37,6 +37,6 @@
 ---
 ### 👾 My GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emisasal&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emisasal&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/emisasal)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=emisasal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=emisasal&theme=react-dark)](https://github.com/emisasal)
