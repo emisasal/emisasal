@@ -45,4 +45,4 @@
 
 <p><img align="center" width='100%' src="https://github-readme-streak-stats.herokuapp.com?user=emisasal&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"" alt="emisasal" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=emisasal&theme=react-dark)](https://github.com/emisasal)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=emisasal&theme=github-compact)](https://github.com/emisasal)
