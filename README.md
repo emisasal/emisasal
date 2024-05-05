@@ -1,7 +1,7 @@
 ### Hi there! 🖖
 
 #### I'm Emiliano Sasal - Full Stack Developer from Buenos Aires, Argentina.
-- Currently working at GlobalNews Group as Frontend Team Lead.
+
 ##### Live long and prosper.
 
 <div id="badges">
