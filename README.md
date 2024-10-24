@@ -1,6 +1,8 @@
 ### Hi there! 🖖
 
-#### I'm Emiliano Sasal - Full Stack Developer from Buenos Aires, Argentina.
+#### I'm Emiliano Sasal - Fullstack Developer from Buenos Aires, Argentina.
+
+Currently **Frontend Team Lead** @ GlobalNews Group
 
 ##### Live long and prosper.
 
