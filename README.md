@@ -2,7 +2,7 @@
 
 #### I'm Emiliano Sasal - Fullstack Developer from Buenos Aires, Argentina.
 
-Currently **Frontend Team Lead** @ GlobalNews Group
+Currently **Fullstack Developer** @ Devlights
 
 ##### Live long and prosper.
 
