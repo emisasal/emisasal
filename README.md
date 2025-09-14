@@ -2,9 +2,13 @@
 
 #### I'm Emiliano Sasal - Fullstack Developer from Buenos Aires, Argentina.
 
-Currently **Fullstack Developer** @ Devlights
+Currently: 
 
-##### Live long and prosper.
+- **Fullstack Developer** @ Devlights
+
+- **Fullstack Engineer** @ Script-Timer Ai
+
+##### *Live long and prosper.*
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/emiliano-sasal/" target="_blank" rel="noopener noreferrer">
